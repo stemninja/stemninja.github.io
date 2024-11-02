@@ -21,7 +21,7 @@
 title: stemninja Page
 email: chris.johnston@veterans.gc.ca
 description: Home of stemninja's GitHub Page.
-#baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://stemninja.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thestemninja
 github_username:  stemninja
